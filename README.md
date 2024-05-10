@@ -1,0 +1,2 @@
+# nautilus_scrpt_rar_compress
+基于nautilus实现的自动压缩rar包脚本
